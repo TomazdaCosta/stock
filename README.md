@@ -1,12 +1,27 @@
-# React + Vite
+# Stock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o projeto
 
-Currently, two official plugins are available:
+O Projeto trata-se de app exclusivo para desktops, onde ousuário pode gerenciar um estoque real, podendo adicionar e remover produtos. Além de poder gerenciar entradas e saídas dos itens em estoque, assim como procurar por itens no estoque a partir de uma busca simples digitando o nome do produto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Acesse o site
 
-## Expanding the ESLint configuration
+[https://tomazdacosta.github.io/stock/](https://tomazdacosta.github.io/stock/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias utilizadas
+
+- REACT
+- REDUX
+- TAILWIND CSS
+
+## Layout Web
+
+<img width="1280" alt="Captura de Tela 2025-07-08 às 19 06 38" src="https://github.com/user-attachments/assets/4905c4d7-958b-4459-9826-3e62510d14a6" />
+<img width="1280" alt="Captura de Tela 2025-07-08 às 19 07 02" src="https://github.com/user-attachments/assets/6452e137-5475-4477-a892-f2507b8f5a9a" />
+<img width="1280" alt="Captura de Tela 2025-07-08 às 19 07 32" src="https://github.com/user-attachments/assets/b37e760a-6eea-445a-b977-eae31c277e82" />
+
+## Autor
+
+Tomaz Costa
+
+- LinkedIn: https://www.linkedin.com/in/tomaz-costa-a013a530b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
